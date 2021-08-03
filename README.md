@@ -1,1 +1,1 @@
-This repository contains the codes and practice algorithms that i used on the Porto Digital
+Este repositorio contem codigos e praticas de algoritimos propostos pela Digital inovation one
